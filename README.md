@@ -43,7 +43,7 @@ install.packages(c("ggplot2", "dplyr", "tidyr", "viridisLite", "showtext"))
 source("sweat_sodium_loss.R")
 ```
 
-Output is saved to `output/sweat_sodium_loss.png` at 300 DPI.
+Output is saved to `images/Rplot04.png` at 300 DPI.
 
 ## Requirements
 
