@@ -31,6 +31,13 @@ The figure assumes 40 mmol/L. To adjust:
 | 70 mmol/L | 1.75 |
 | 80 mmol/L | 2.0 |
 
+## References
+The modeling and environmental thresholds in this script are based on the following research:
+
+* **Passive Heat Responses:** Atencio JK, et al. (2025). *Comparison of thermoregulatory, cardiovascular, and immune responses...* Am J Physiol Regul Integr Comp Physiol.
+* **Environmental Limits (PSU HEAT Project):** Vecellio DJ, et al. (2022). *Utility of the Heat Index...* Int J Biometeorol.
+* **Wet-Bulb Thresholds:** Vecellio DJ, et al. (2022). *Evaluating the 35°C wet-bulb temperature adaptability threshold...* J Appl Physiol.
+
 ## Installation
 
 ```r
