@@ -15,7 +15,7 @@ Sweat rate models are anchored to empirical data (passive: 1.0–1.5 L·h-1; act
 
 ## Output
 
-![Sweat Sodium Loss Heatmap](Rplot04.png)
+![Sweat Sodium Loss Heatmap](Images/Rplot04.png)
 
 ## Scaling for Individual Sweat [Na+]
 
